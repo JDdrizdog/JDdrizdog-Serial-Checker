@@ -2,8 +2,8 @@
 this is an updated and improved version of https://github.com/rotomicora/Noxius-SerialChecker?tab=readme-ov-file so make sure you go and check out his repositorie
 
 # Requirements:
-> download the latest version of python  
-Open CMD and type:
+> Download the latest version of python  
+> Open CMD and type:
 ```python
 pip install colorama pystyle fade
 ```

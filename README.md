@@ -9,4 +9,4 @@ pip install colorama pystyle fade
 ```
 
 # Showcase
-![image](https://github.com/JDdrizdog/JDdrizdog-Serial-Checker/assets/146129085/03854f8a-d010-42c8-be2e-8b44bf0c4e2b)
+![image](https://github.com/JDdrizdog/JDdrizdog-Serial-Checker/assets/146129085/1aa611b6-42b7-445f-a0f4-d5b0a911271f)
